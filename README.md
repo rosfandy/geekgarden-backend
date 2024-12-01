@@ -30,6 +30,9 @@ Sebuah sistem CRUD, USER dan PRODUK yang mana sistem memiliki 2 hak akses yaitu 
 $ git clone https://github.com/rosfandy/geekgarden-backend.git
 ```
 ```bash
+$ cp .env.example .env
+```
+```bash
 $ npm install
 ```
 
