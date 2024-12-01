@@ -50,6 +50,16 @@ $ npm run db:migrate
 $ npm run db:seed:all
 ```
 
+## Run Program
+1. Hot Reload
+```bash
+$ npm run start:dev
+```
+2. Regular Run
+```bash
+$ npm run start
+```
+
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
