@@ -49,6 +49,10 @@ $ npm install
 $ npm run db:migrate
 ```
 2. Run Seeder
+   
+Seeder account for admin :
+- email : admin@mail.com
+- password : password
 ```bash
 $ npm run db:seed:all
 ```
