@@ -32,6 +32,21 @@
 $ npm install
 ```
 
+## Database setup
+- Dialect : MySQL
+- Database : geekgarden
+- ORM : Sequelize
+
+1. Run Migration
+```bash
+$ npm run db:migrate
+```
+2. Run Seeder
+```bash
+$ npm run db:seed:all
+```
+
+
 ## Compile and run the project
 
 ```bash
