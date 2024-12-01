@@ -38,7 +38,9 @@ $ npm install
 - ORM : Sequelize
 <p align="center">
   <img src="https://raw.githubusercontent.com/rosfandy/geekgarden-backend/refs/heads/main/db_ss.png"  alt="database schema" />
-</p>1. Run Migration
+</p>
+
+1. Run Migration
 ```bash
 $ npm run db:migrate
 ```
